@@ -31,7 +31,8 @@ export default class App extends Component {
     this.state = {
       token:"",
       userFullName:"",
-      currentUserId:0
+      currentUserId:0,
+      categories:[]
     };
   }
  
