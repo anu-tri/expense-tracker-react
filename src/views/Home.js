@@ -153,13 +153,13 @@ export default class Home extends Component {
                     {/* <div style={{width:"50px",height:"150px", marginLeft:"50px", padding:"10px"}}><ExpenseChartHome /></div><br/> */}
                    
                     <p style={{marginTop:"-8px", color:"#005ce6", marginLeft:"20px"}}><b>Steps to analyze your expenditure</b></p>
-                    <p style={{width:"150px", marginLeft:"80px", display:"inline-block", height:"50px" , fontSize:"15px", color:"white", backgroundColor:"#00b359", paddingTop:"12px", paddingLeft:"18px"}}>
+                    <p style={{width:"150px", marginLeft:"90px", display:"inline-block", height:"50px" , fontSize:"15px", color:"white", backgroundColor:"#00b359", paddingTop:"12px", paddingLeft:"28px"}}>
                         Add Budget
                     </p><br/>
-                    <p style={{width:"150px", marginLeft:"80px", display:"inline-block", height:"50px" , fontSize:"15px", color:"white", backgroundColor:"#ff3300", paddingTop:"12px", paddingLeft:"18px"}}>
+                    <p style={{width:"150px", marginLeft:"90px", display:"inline-block", height:"50px" , fontSize:"15px", color:"white", backgroundColor:"#ff3300", paddingTop:"12px", paddingLeft:"28px"}}>
                         Add Expense
                     </p><br/>
-                    <p style={{width:"150px", marginLeft:"80px", display:"inline-block", height:"50px" , fontSize:"15px", color:"white", backgroundColor:"#9933ff", paddingTop:"12px", paddingLeft:"18px"}}>
+                    <p style={{width:"150px", marginLeft:"90px", display:"inline-block", height:"50px" , fontSize:"15px", color:"white", backgroundColor:"#9933ff", paddingTop:"12px", paddingLeft:"28px"}}>
                         View Reports
                     </p>
                     {/* <hr></hr> */}
